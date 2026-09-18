@@ -1,4 +1,4 @@
-# C10 Team Kagera — Toxicity Linear Probe (Gemma-2-2B Layer 14)
+# C10 Team Komadugu — Toxicity Linear Probe (Gemma-2-2B Layer 14)
 
 A lightweight toxic-comment classifier built by training a **linear probe**
 (StandardScaler + Logistic Regression) on frozen hidden-state embeddings
@@ -9,7 +9,7 @@ an interactive Streamlit app.
 ## Project Structure
 
 ```
-C10-team-kagera/
+C10-team-komadugu/
 ├── README.md, requirements.txt
 ├── docs/            # problem_statement, data_card, impact_statement_card,
 │                     # stakeholder_engagement (PDFs)
@@ -119,7 +119,7 @@ GPU recommended for steps 1 and 4; step 2 is CPU-only and fast.
 
 ## Appendix
 
-**Contributors:** Komadugu Team · **Mentors:** Not specified
+**Contributors:** Komadugu Team · **Mentors:** Moses Olafenwa
 
 ### Code
 
